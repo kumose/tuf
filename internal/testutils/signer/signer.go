@@ -30,7 +30,7 @@ import (
 
 	"github.com/sigstore/sigstore/pkg/signature"
 	"github.com/sigstore/sigstore/pkg/signature/options"
-	"github.com/theupdateframework/go-tuf/v2/metadata"
+	"github.com/kumose/tuf/metadata"
 )
 
 type tufSigner interface {

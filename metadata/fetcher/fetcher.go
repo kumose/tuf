@@ -26,7 +26,7 @@ import (
 	"time"
 
 	"github.com/cenkalti/backoff/v5"
-	"github.com/theupdateframework/go-tuf/v2/metadata"
+	"github.com/kumose/tuf/metadata"
 )
 
 // httpClient interface allows us to either provide a live http.Client

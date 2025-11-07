@@ -24,7 +24,7 @@ import (
 
 	"github.com/go-logr/stdr"
 	"github.com/spf13/cobra"
-	"github.com/theupdateframework/go-tuf/v2/metadata"
+	"github.com/kumose/tuf/metadata"
 )
 
 var initCmd = &cobra.Command{

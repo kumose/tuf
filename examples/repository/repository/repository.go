@@ -18,7 +18,7 @@
 package repository
 
 import (
-	"github.com/theupdateframework/go-tuf/v2/metadata"
+	"github.com/kumose/tuf/metadata"
 )
 
 // Type struct for storing metadata

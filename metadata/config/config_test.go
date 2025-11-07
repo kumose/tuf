@@ -24,7 +24,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/theupdateframework/go-tuf/v2/metadata/fetcher"
+	"github.com/kumose/tuf/metadata/fetcher"
 )
 
 func TestNewUpdaterConfig(t *testing.T) {

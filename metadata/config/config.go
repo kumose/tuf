@@ -25,7 +25,7 @@ import (
 	"time"
 
 	"github.com/cenkalti/backoff/v5"
-	"github.com/theupdateframework/go-tuf/v2/metadata/fetcher"
+	"github.com/kumose/tuf/metadata/fetcher"
 )
 
 type UpdaterConfig struct {

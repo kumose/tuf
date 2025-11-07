@@ -30,8 +30,8 @@ import (
 	"time"
 
 	"github.com/sigstore/sigstore/pkg/signature"
-	"github.com/theupdateframework/go-tuf/v2/examples/repository/repository"
-	"github.com/theupdateframework/go-tuf/v2/metadata"
+	"github.com/kumose/tuf/examples/repository/repository"
+	"github.com/kumose/tuf/metadata"
 )
 
 // A TUF repository example using the low-level TUF Metadata API.

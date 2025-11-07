@@ -113,7 +113,7 @@ and can be used to implement various TUF clients with relatively little effort.
 
 ----------------------------
 
-* [Documentation](https://pkg.go.dev/github.com/theupdateframework/go-tuf/v2)
+* [Documentation](https://pkg.go.dev/github.com/kumose/tuf)
 
 * [Introduction to TUF's Design](https://theupdateframework.io/overview/)
 

@@ -35,8 +35,8 @@ import (
 	"github.com/sigstore/sigstore/pkg/cryptoutils"
 	"github.com/sigstore/sigstore/pkg/signature"
 	"github.com/stretchr/testify/assert"
-	"github.com/theupdateframework/go-tuf/v2/internal/testutils"
-	"github.com/theupdateframework/go-tuf/v2/internal/testutils/rsapss"
+	"github.com/kumose/tuf/internal/testutils"
+	"github.com/kumose/tuf/internal/testutils/rsapss"
 )
 
 func TestMain(m *testing.M) {

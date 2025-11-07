@@ -26,10 +26,10 @@ import (
 
 	"github.com/go-logr/stdr"
 
-	"github.com/theupdateframework/go-tuf/v2/metadata"
-	"github.com/theupdateframework/go-tuf/v2/metadata/config"
-	"github.com/theupdateframework/go-tuf/v2/metadata/multirepo"
-	"github.com/theupdateframework/go-tuf/v2/metadata/updater"
+	"github.com/kumose/tuf/metadata"
+	"github.com/kumose/tuf/metadata/config"
+	"github.com/kumose/tuf/metadata/multirepo"
+	"github.com/kumose/tuf/metadata/updater"
 )
 
 const (

@@ -25,9 +25,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/theupdateframework/go-tuf/v2/internal/testutils"
-	"github.com/theupdateframework/go-tuf/v2/internal/testutils/rsapss"
-	"github.com/theupdateframework/go-tuf/v2/metadata"
+	"github.com/kumose/tuf/internal/testutils"
+	"github.com/kumose/tuf/internal/testutils/rsapss"
+	"github.com/kumose/tuf/metadata"
 )
 
 var allRoles map[string][]byte
